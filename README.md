@@ -24,7 +24,7 @@ For all licensing information, refer to:
 
 - [LICENSE](LICENSE)
 - [LICENSE-CODE](LICENSE-CODE)
-- [ThirdPartyNotices](ThirdPartyNotices.md)
+- [ThirdPartyNotices](ThirdPartyNotices.md) 
 
 ## Code of Conduct
 
